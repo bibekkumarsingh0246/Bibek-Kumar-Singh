@@ -1,7 +1,7 @@
 # Hi, I'm Bibek 👋
 
 🎓 **BSc.CSIT Student** (Tribhuvan University, Nepal)  
-🔐 **Cyber Security Enthusiast (Beginner)**  
+
 
 I use this GitHub to document my **semester-wise academic labs and projects**
 and to build a **strong foundation in cyber security** through hands-on practice.
@@ -27,21 +27,9 @@ and to build a **strong foundation in cyber security** through hands-on practice
 - **Languages:** C, C++, Python, JavaScript  
 - **Web:** HTML, CSS, React, Node.js (MERN basics)  
 - **Systems:** Linux (CLI), Windows  
-- **Networking:** OSI model, TCP/IP, routing basics  
-- **Cyber Security:**  
-  - Cryptography fundamentals  
-  - Linux security basics  
-  - Beginner CTFs & labs  
-- **Tools:** Git, GitHub, VS Code, Postman 
+  
+- **Tools:** Git, GitHub, VS Code
 
----
-
-## 🎯 Current Focus
-
-- Strengthening **networking & Linux**
-- Practicing **cyber security fundamentals**
-- Building **clean academic repositories**
-- Preparing for **industry-level skills**
 
 ---
 
@@ -54,6 +42,6 @@ Please **do not copy directly for academic submission**.
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/BibekKumar-Singh4802
+- GitHub: https://github.com/Bibek-Kumar-Singh
 
 ⭐ Feel free to explore my repositories and follow my learning journey.
