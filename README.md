@@ -4,7 +4,7 @@
 
 
 I use this GitHub to document my **semester-wise academic labs and projects**
-and to build a **strong foundation in cyber security** through hands-on practice.
+
 
 ---
 
